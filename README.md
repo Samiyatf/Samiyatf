@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I’m Samiya — recent NC A&T grad focused on software engineering & product. I build systems that are both solid and easy to use.
+# 💫 Hi, I’m Samiya — 
+A recent NC A&T grad focused on software engineering & product. I build systems that are both solid and easy to use.
 
 
 # 💻 Tech Stack:
