@@ -1,5 +1,5 @@
 # 💫 Hi, I’m Samiya —
-A recent NC A&T grad focused on software engineering & product. I build systems that are both solid and easy to use.
+An NC A&T Information Technology student graduating May 2026, focused on software engineering and product. I build systems that are both technically solid and easy to use.
 
 ## What I Build
 
