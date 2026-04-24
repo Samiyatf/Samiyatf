@@ -7,7 +7,4 @@ A recent NC A&T grad focused on software engineering & product. I build systems 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Samiyatf&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=Samiyatf&icon=7&color=12)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
